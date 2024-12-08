@@ -13,11 +13,17 @@ These libraries must be installed to web scrape the data from reddit.
 Various Machine learning models are used to give correct accuracy to predict the stock price for future years.
 # Gradient Regressor model:Required dependencies which need to be installed are given below
 pip install pandas numpy scikit-learn matplotlib 
+
 After installation of all these dependencies,run the code,Enter the required prediction stock symbol and enter the year for which you need the prediction and stock price will be predicted with a graph representing Actual price vs Predicted price
+
 # LSTM Model: Required dependencies which need to be installed are given below
  pip install pandas numpy tensorflow scikit-learn matplotlib
+
 After installation of all these dependencies,run the code,Enter the required prediction stock symbol and enter the year for which you need the prediction and stock price will be predicted with a graph representing Actual price vs Predicted price
+
 #  Random Forest :Required dependencies which need to be installed are given below
+
  pip install pandas numpy scikit-learn matplotlib
+ 
 After installation of all these dependencies,run the code,Enter the required prediction stock symbol and enter the year for which you need the prediction and stock price will be predicted with a graph representing Actual price vs Predicted price
 

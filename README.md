@@ -3,9 +3,13 @@ To extract the data from the reddit,to collect post of users regarding the stock
 The code from where data is extracted is mentioned in the stockmarket.ipynb file.The project is fully executed in jupyter notebook.
 Things to do befors executing the code:
  Install Jupyter Notebook
-pip install praw //to extract data from reddit
+ 
+ pip install praw //to extract data from reddit
+
  pip install json // to produce the collected data in json format.It is available in reddit_stock_data_final.json file
+ 
  pip install yfinance // to get stock related data
+ 
  pip install re //for evaluating regex expression
 
 These libraries must be installed to web scrape the data from reddit.
